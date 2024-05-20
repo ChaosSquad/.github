@@ -6,7 +6,7 @@ You can join our discord server here: https://discord.gg/6Vug8J6XET.
 The language is german.
 
 ### Our projects
-##### "The unknown Project"
+#### "The unknown Project"
 A project that is currently not announced, but it is the project which causes that we currently have no time for the other projects.  
 It will have support for multiple maps and gamemodes.
 ##### ChaosSquad Bedwars
@@ -15,7 +15,7 @@ A very chaotic version of bedwars with a lot of special items and mechanics.
 How to play: On our network.
   
 Status: Unmaintained (New features are planned, but we currently have no time to implement them)
-##### CombatTest
+#### CombatTest
 CombatTest is a test gamemode.  
 Originally intended to be a testing gamemode for the combat system of "the unknown project", it developed into a game mode of its own.
 It is a FFA or TDM gamemode with a special combat system.
@@ -23,7 +23,7 @@ It is a FFA or TDM gamemode with a special combat system.
 Where to play: On our minecraft network.
   
 Status: Unmaintained (We currently have nobody who has time to add new features, but it will be updated to newer versions)
-##### ACM-2
+#### ACM-2
 A large map that has multiple pvp gamemodes.
   
 Rush:  
@@ -43,7 +43,7 @@ The gamemodes were created only with a datapack, no plugins were used.
 Where to play: On our minecraft network. But sometimes it is in maintenance because of a minecraft version update.
   
 Status: Finished (Will be ported to newer versions, but no new features will be added)
-##### CastleConquest 1 / BurgConquest
+#### CastleConquest 1 / BurgConquest
 A pvp map and gamemode where you need to capture a castle or defend it.
   
 The map was created with command blocks and later also with datapacks.  
