@@ -2,7 +2,7 @@
 We are a group that creates Minecraft gamemodes and game projects.
 
 ### Discord Server
-You can join our discord server (https://discord.gg/6Vug8J6XET)[here].  
+You can join our discord server here: https://discord.gg/6Vug8J6XET.  
 The language is german.
 
 ### Our projects
