@@ -9,7 +9,7 @@ The language is german.
 #### "The unknown Project"
 A project that is currently not announced, but it is the project which causes that we currently have no time for the other projects.  
 It will have support for multiple maps and gamemodes.
-##### ChaosSquad Bedwars
+#### ChaosSquad Bedwars
 A very chaotic version of bedwars with a lot of special items and mechanics.
   
 How to play: On our network.
