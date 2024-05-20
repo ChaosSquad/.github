@@ -1,12 +1,54 @@
-## Hi there 👋
+## ChaosSquad
+We are a german group that creates Minecraft gamemodes and game projects.
 
-<!--
+### Discord Server
+You can join our discord server (here)[https://discord.gg/6Vug8J6XET].  
+The language is german.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our projects
+##### "The unknown Project"
+A project that is currently not announced, but it is the project which causes that we currently have no time for the other projects.  
+It will have support for multiple maps and gamemodes.
+##### ChaosSquad Bedwars
+A very chaotic version of bedwars with a lot of special items and mechanics.
+  
+How to play: On our network.
+  
+Status: Unmaintained (New features are planned, but we currently have no time to implement them)
+##### CombatTest
+CombatTest is a test gamemode.  
+Originally intended to be a testing gamemode for the combat system of "the unknown project", it developed into a game mode of its own.
+It is a FFA or TDM gamemode with a special combat system.
+  
+Where to play: On our minecraft network.
+  
+Status: Unmaintained (We currently have nobody who has time to add new features, but it will be updated to newer versions)
+##### ACM-2
+A large map that has multiple pvp gamemodes.
+  
+Rush:  
+As an attacker, you need to blow up the defenders' targets. As a defender, you need to prevent the enemies from blowing up your targets.  
+The attackers have only a limited amount of respawns and time.  
+The game mode is based on the Rush mode from Battlefield 3/4.
+  
+Team Deathmatch:  
+Both teams have a specific amounts of respawns. The first team that has no respawns anymore loses.
+  
+Capture the Flag:  
+Take the flag from the enemy base to your own base to capture it.  
+After capturing a specific amount of flags, your team wins.
+  
+The gamemodes were created only with a datapack, no plugins were used.
+  
+Where to play: On our minecraft network. But sometimes it is in maintenance because of a minecraft version update.
+  
+Status: Finished (Will be ported to newer versions, but no new features will be added)
+##### CastleConquest 1 / BurgConquest
+A pvp map and gamemode where you need to capture a castle or defend it.
+  
+The map was created with command blocks and later also with datapacks.  
+No plugins were used, this would work in vanilla.
+  
+Where to play: The map isn't published anywhere, but it is playable sometimes at events on our discord server.
+  
+Status: Finished (Will be ported to newer versions, but no new features will be added)
