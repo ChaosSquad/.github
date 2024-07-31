@@ -6,9 +6,10 @@ You can join our discord server here: https://discord.gg/6Vug8J6XET.
 The language is german.
 
 ### Our projects
-#### "The unknown Project"
-A project that is currently not announced, but it is the project which causes that we currently have no time for the other projects.  
-It will have support for multiple maps and gamemodes.
+#### CastleConquest 2
+CastleConquest 2 is the project we are currently working on. It is the successor to CastleConquest 1 / BurgConquest.
+As the name suggests, it is about conquering or defending a castle.
+The standard game mode will be Conquest (like CastleConquest 1), but Rush, Extraction, Siege and Lynchmob are also planned as game modes (but will be delivered later).
 #### ChaosSquad Bedwars
 A very chaotic version of bedwars with a lot of special items and mechanics.
   
