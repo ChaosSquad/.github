@@ -1,5 +1,5 @@
 ## ChaosSquad
-We are a group that creates Minecraft gamemodes and game projects.
+We create Minecraft gamemodes and do other game projects.
 
 ### Discord Server
 You can join our discord server here: https://discord.gg/6Vug8J6XET.  
