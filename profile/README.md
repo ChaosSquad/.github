@@ -17,8 +17,7 @@ How to play: On our network.
   
 Status: Unmaintained (New features are planned, but we currently have no time to implement them)
 #### CombatTest
-CombatTest is a test gamemode.  
-Originally intended to be a testing gamemode for the combat system of "the unknown project", it developed into a game mode of its own.
+CombatTest is a gamemode, originally intended to be a testing gamemode for the combat system of CastleConquest 2, it developed into a gamemode of its own.
 It is a FFA or TDM gamemode with a special combat system.
   
 Where to play: On our minecraft network.
