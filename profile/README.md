@@ -30,7 +30,7 @@ Where to play: On our minecraft network.
   
 Status: Maintained (We still update and add new features to this project, it's not our main priority)
 
-Links:
+Links:  
 [Info Page](https://chaossquad.net/combattest/)
 
 #### ACM-2
@@ -54,7 +54,7 @@ Where to play: On our minecraft network. But sometimes it is in maintenance beca
   
 Status: Finished (Will be ported to newer versions, but no new features will be added)
 
-Links:
+Links:  
 [Info Page](https://chaossquad.net/acm-2/)
 #### CastleConquest 1 / BurgConquest
 A pvp map and gamemode where you need to capture a castle or defend it.
@@ -66,5 +66,5 @@ Where to play: The map isn't published anywhere, but it is playable sometimes at
   
 Status: Finished (Will be ported to newer versions, but no new features will be added)
 
-Links:
+Links:  
 [Info Page](https://chaossquad.net/castle-conquest-1/)
