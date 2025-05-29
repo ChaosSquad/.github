@@ -11,10 +11,11 @@ CastleConquest 2 is the project we are currently working on. It is the successor
 As the name suggests, it is about conquering or defending a castle.
 The standard game mode will be Conquest (like CastleConquest 1), but Rush, Extraction, Siege and Lynchmob are also planned as game modes (but will be delivered later).
 
-Links:  
-[About CC2](https://chaossquad.net/castle-conquest-2/) [Documentation](https://documentation.chaossquad.net/books/castle-conquest-2)
-
 Status: Maintained
+
+Links:  
+[Info Page](https://chaossquad.net/castle-conquest-2/) [Documentation](https://documentation.chaossquad.net/books/castle-conquest-2)
+
 #### ChaosSquad Bedwars
 A very chaotic version of bedwars with a lot of special items and mechanics.
   
@@ -28,6 +29,10 @@ It is a FFA or TDM gamemode with a special combat system.
 Where to play: On our minecraft network.
   
 Status: Maintained (We still update and add new features to this project, it's not our main priority)
+
+Links:
+[Info Page](https://chaossquad.net/combattest/)
+
 #### ACM-2
 A large map that has multiple pvp gamemodes.
   
@@ -48,6 +53,9 @@ The gamemodes were created only with a datapack, no plugins were used.
 Where to play: On our minecraft network. But sometimes it is in maintenance because of a minecraft version update.
   
 Status: Finished (Will be ported to newer versions, but no new features will be added)
+
+Links:
+[Info Page](https://chaossquad.net/acm-2/)
 #### CastleConquest 1 / BurgConquest
 A pvp map and gamemode where you need to capture a castle or defend it.
   
@@ -57,3 +65,6 @@ No plugins were used, this would work in vanilla.
 Where to play: The map isn't published anywhere, but it is playable sometimes at events on our discord server.
   
 Status: Finished (Will be ported to newer versions, but no new features will be added)
+
+Links:
+[Info Page](https://chaossquad.net/castle-conquest-1/)
