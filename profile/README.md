@@ -10,19 +10,24 @@ The language is german.
 CastleConquest 2 is the project we are currently working on. It is the successor to CastleConquest 1 / BurgConquest.
 As the name suggests, it is about conquering or defending a castle.
 The standard game mode will be Conquest (like CastleConquest 1), but Rush, Extraction, Siege and Lynchmob are also planned as game modes (but will be delivered later).
+
+Links:  
+[About CC2](https://chaossquad.net/castle-conquest-2/) [Documentation](https://documentation.chaossquad.net/books/castle-conquest-2)
+
+Status: Maintained
 #### ChaosSquad Bedwars
 A very chaotic version of bedwars with a lot of special items and mechanics.
   
 How to play: On our network.
   
-Status: Unmaintained (New features are planned, but we currently have no time to implement them)
+Status: Maintained (We still update and add new features to this project, it's not our main priority)
 #### CombatTest
 CombatTest is a gamemode, originally intended to be a testing gamemode for the combat system of CastleConquest 2, it developed into a gamemode of its own.
 It is a FFA or TDM gamemode with a special combat system.
   
 Where to play: On our minecraft network.
   
-Status: Unmaintained (We currently have nobody who has time to add new features, but it will be updated to newer versions)
+Status: Maintained (We still update and add new features to this project, it's not our main priority)
 #### ACM-2
 A large map that has multiple pvp gamemodes.
   
